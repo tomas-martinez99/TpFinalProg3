@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\",
+  "WorkspaceRootPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|c:\\users\\principal\\source\\repos\\finalprog3\\finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|solutionrelative:finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3.application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|solutionrelative:finalprog3.application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|c:\\users\\principal\\source\\repos\\finalprog3\\finalprog3\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|solutionrelative:finalprog3\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|solutionrelative:finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,25 +25,29 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SportController.cs",
-              "DocumentMoniker": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\Controllers\\SportController.cs",
-              "RelativeDocumentMoniker": "FinalProg3\\Controllers\\SportController.cs",
-              "ToolTip": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\Controllers\\SportController.cs",
-              "RelativeToolTip": "FinalProg3\\Controllers\\SportController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAA4wFUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:44:10.552Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "FinalProg3.Application\\Services\\AuthenticateService.cs",
+              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "FinalProg3.Application\\Services\\AuthenticateService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:36:14.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FinalProg3\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
               "RelativeToolTip": "FinalProg3\\Controllers\\UserController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowC8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

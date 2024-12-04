@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj": {}
+    "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
+    "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
         "projectName": "FinalProg3.Application",
-        "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
+        "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
         "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\obj\\",
+        "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
-                "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
+              "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
+                "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
+    "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
         "projectName": "FinalProg3.Domain",
-        "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
+        "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
         "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj": {
+    "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj",
         "projectName": "FinalProg3.Infraestructure",
-        "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,11 +182,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
-                "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj"
+              "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
+                "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj"
               },
-              "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
-                "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
+              "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
+                "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
               }
             }
           }
@@ -255,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj": {
+    "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj",
         "projectName": "FinalProg3.Api",
-        "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj",
+        "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\FinalProg3.Api.csproj",
         "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3\\obj\\",
+        "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -279,11 +279,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
-                "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj"
+              "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj": {
+                "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj"
               },
-              "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj"
+              "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Infraestructure\\FinalProg3.Infraestructure.csproj"
               }
             }
           }

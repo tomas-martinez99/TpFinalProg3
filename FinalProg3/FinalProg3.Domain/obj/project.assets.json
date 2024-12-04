@@ -5108,11 +5108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
       "projectName": "FinalProg3.Domain",
-      "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
+      "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj",
       "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",

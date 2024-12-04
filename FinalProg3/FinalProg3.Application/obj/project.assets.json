@@ -3248,11 +3248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
       "projectName": "FinalProg3.Application",
-      "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
+      "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
       "packagesPath": "C:\\Users\\Principal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\obj\\",
+      "outputPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Principal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3269,8 +3269,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
-              "projectPath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
+            "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj": {
+              "projectPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Domain\\FinalProg3.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKpNG2rFTEsADayD3LnqrMcwvsOfzZtXxgF9pqHOJSVTpiOAQEelrgyWMbnArR+IJ4e9dFfGUZOT9KngAlmwUQ==",
+  "dgSpecHash": "nuwwfL45Ur5p5Jpff+4Y/OkkVADjpknHDucy55xLw0/x/X4WMCXZRz0tCdShUQux9ZjTcTXPWfw89ZXtcOSD5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Principal\\source\\repos\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
+  "projectFilePath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\FinalProg3.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Principal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Principal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

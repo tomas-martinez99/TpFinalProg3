@@ -34,6 +34,11 @@ namespace FinalProg3.Application.Services
             }
 
             var user = _userRepository.GetByName(authenticateRequest.Name);
+              
+            if (user == null)
+            {
+                return null ;
+            }
 
             if (authenticateRequest.Name == user.Name && authenticateRequest.Password == user.Password)
             {
