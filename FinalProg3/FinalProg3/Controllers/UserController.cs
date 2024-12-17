@@ -17,10 +17,19 @@ namespace FinalProg3.Api.Controllers
             _userService = userService;
         }
         [HttpGet]
-        [Authorize(Roles = "Admin")]
-        public ActionResult<User?> GetByName(string name)
+        
+        public ActionResult GetByName(string name)
         {
-            return Ok(_userService.GetByName(name));
+            var user = _userService.GetByName(name);
+            if (user == null) return NotFound("Usuario no encontrado.");
+            return Ok(user);
+        }
+        [HttpGet]
+        public ActionResult GetById (int id)
+        {
+            var userDetail = _userService.GetById(id);
+            if (userDetail == null) return NotFound("Usuario no encontrado.");
+            return Ok(userDetail);
         }
 
         [HttpPost]
@@ -41,6 +50,21 @@ namespace FinalProg3.Api.Controllers
             }
            
         }
+
+        [HttpPut]
+        public ActionResult Update(int id, UpdateUserRequest request)
+        {
+            try
+            {
+                _userService.UpdateUser(id, request);
+                return Ok("Usuario actualizado");
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        
 
         [HttpDelete]
         public ActionResult DeleteUser(int id)

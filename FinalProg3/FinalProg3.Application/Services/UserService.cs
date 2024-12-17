@@ -1,4 +1,5 @@
 ﻿using FinalProg3.Application.Interfaces;
+using FinalProg3.Application.Models.Dto;
 using FinalProg3.Application.Models.Request;
 using FinalProg3.Domain.Entities;
 using FinalProg3.Domain.Interfaces;
@@ -17,14 +18,18 @@ namespace FinalProg3.Application.Services
         {
             _userRepository = userRepository;
         }
-        public User GetById(int id)
+        public UserDetailDto GetById(int id)
         {
-            return _userRepository.GetById(id);
+            var user = _userRepository.GetById(id);
+            if (user == null) return null;
+
+            return UserDetailDto.FromEntity(user);
         }
 
-        public User GetByName(string name)
+        public UserDto GetByName(string name)
         {
-            return _userRepository.GetByName(name);
+            var user = _userRepository.GetByName(name);
+            return UserDto.FromEntity(user);
         }
 
         public int AddUser(UserAddRequest request)
@@ -41,7 +46,29 @@ namespace FinalProg3.Application.Services
                 Password = request.Password,
                 UserType = request.UserType,
             };
-            return _userRepository.AddUser(obj);
+          var a= _userRepository.AddUser(obj);
+            _userRepository.SaveChanges();
+            return a;
+            
+        }
+
+        public void UpdateUser (int id, UpdateUserRequest request)
+        {
+            var user = _userRepository.GetById(id);
+            if ( user == null)
+            {
+                throw new ArgumentException("Usuario inexistente");
+            }
+            if (user != null)
+            {
+                user.Name= request.Name;
+                user.Email= request.Email;
+                user.Password= request.Password;
+                user.UserType = request.UserType;
+                _userRepository.UpdateUser(user);
+                _userRepository.SaveChanges();
+            }
+            
         }
 
         public bool DeleteUser(int id)
@@ -54,6 +81,7 @@ namespace FinalProg3.Application.Services
             }
 
             _userRepository.DeleteUser(sport);
+            _userRepository.SaveChanges();
             return true;
         }
     }

@@ -38,24 +38,7 @@ namespace FinalProg3.Application.Services
             if (clas == null)
                 return null;
 
-            return new ClassDetailDto
-            {
-                Id = clas.Id,
-                SportName = clas.Sport != null ? clas.Sport.SportName : "No definido",
-                Schedule = clas.Schedule,
-                Students = clas.Students.Select(s => new UserDto
-                {
-                    Id = s.Id,
-                    Name = s.Name,
-                    Email = s.Email
-                }).ToList(),
-                Teachers = clas.Teachers.Select(t => new UserDto
-                {
-                    Id = t.Id,
-                    Name = t.Name,
-                    Email = t.Email
-                }).ToList()
-            };
+            return ClassDetailDto.FromEntity(clas);
 
         }
 

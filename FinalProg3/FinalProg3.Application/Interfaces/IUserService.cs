@@ -1,4 +1,5 @@
-﻿using FinalProg3.Application.Models.Request;
+﻿using FinalProg3.Application.Models.Dto;
+using FinalProg3.Application.Models.Request;
 using FinalProg3.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,10 +11,12 @@ namespace FinalProg3.Application.Interfaces
 {
     public interface IUserService
     {
-        User? GetById(int id);
+        UserDetailDto? GetById(int id);
         int AddUser(UserAddRequest user);
 
-        User? GetByName(string name);
+        UserDto? GetByName(string name);
+
+        void UpdateUser(int id, UpdateUserRequest request);
 
         bool DeleteUser(int id);
     }

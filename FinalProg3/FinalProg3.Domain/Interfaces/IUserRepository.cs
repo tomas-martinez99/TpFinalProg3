@@ -14,6 +14,8 @@ namespace FinalProg3.Domain.Interfaces
         User? GetByName(string name);
         bool ExistsByName(string name);
 
+        void UpdateUser(User user);
         void DeleteUser(User User);
+        void SaveChanges();
     }
 }

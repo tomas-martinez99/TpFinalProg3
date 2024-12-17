@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3.application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|solutionrelative:finalprog3.application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3.application\\models\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|solutionrelative:finalprog3.application\\models\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCE9C64-0291-4622-A3C6-1DA8C21C9798}|FinalProg3\\FinalProg3.Api.csproj|solutionrelative:finalprog3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|solutionrelative:finalprog3.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|c:\\users\\principal\\desktop\\nueva carpeta (2)\\finalprog3\\finalprog3.application\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C012694B-F6AA-41C6-8CBB-1A7A1E893836}|FinalProg3.Application\\FinalProg3.Application.csproj|solutionrelative:finalprog3.application\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +35,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthenticateService.cs",
-              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\AuthenticateService.cs",
-              "RelativeDocumentMoniker": "FinalProg3.Application\\Services\\AuthenticateService.cs",
-              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\AuthenticateService.cs",
-              "RelativeToolTip": "FinalProg3.Application\\Services\\AuthenticateService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAvwCkAAAAAAAAA",
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Models\\Request\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "FinalProg3.Application\\Models\\Request\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Models\\Request\\UpdateUserRequest.cs",
+              "RelativeToolTip": "FinalProg3.Application\\Models\\Request\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T23:36:14.804Z",
+              "WhenOpened": "2024-12-17T00:25:30.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "FinalProg3\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3\\Controllers\\UserController.cs",
-              "RelativeToolTip": "FinalProg3\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowC8AAAAtAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FinalProg3.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "FinalProg3.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:44:09.897Z",
+              "WhenOpened": "2024-12-17T00:18:44.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\ClassService.cs",
+              "RelativeDocumentMoniker": "FinalProg3.Application\\Services\\ClassService.cs",
+              "ToolTip": "C:\\Users\\Principal\\Desktop\\Nueva carpeta (2)\\FinalProg3\\FinalProg3.Application\\Services\\ClassService.cs",
+              "RelativeToolTip": "FinalProg3.Application\\Services\\ClassService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:22:21.422Z",
               "EditorCaption": ""
             }
           ]
